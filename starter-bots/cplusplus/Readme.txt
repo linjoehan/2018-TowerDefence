@@ -3,6 +3,8 @@ https://nuwen.net/files/mingw/mingw-15.4.exe is a nicely maintained distro with 
 
 Extracted the above files to C:\
 
+compile.bat needs to be updated to your local MinGW path
+
 C++ Source code: samplebot.cpp 
 Compile with : compile.bat
 Run bot : samplebot.exe
